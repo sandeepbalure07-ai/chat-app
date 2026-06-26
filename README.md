@@ -1,10 +1,8 @@
 # QuickChat
 
-## Live Demo
+## Live Demo:  https://chat-app-pi-sage.vercel.app
 
-Frontend: https://chat-app-pi-sage.vercel.app
 
-Backend: https://chat-app-backend-rouge-nu.vercel.app
 
 ## Overview
 
